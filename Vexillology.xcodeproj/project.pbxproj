@@ -28,6 +28,7 @@
 		93BDD51B24E901D70089E6AC /* countriesjson.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = countriesjson.json; sourceTree = "<group>"; };
 		93BDD51D24E902220089E6AC /* Flag.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Flag.swift; sourceTree = "<group>"; };
 		93BDD51F24E903170089E6AC /* Bundle-Decodable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bundle-Decodable.swift"; sourceTree = "<group>"; };
+		93BDD52124EA28D60089E6AC /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +45,7 @@
 		9353263024E1564E00AF2B37 = {
 			isa = PBXGroup;
 			children = (
+				93BDD52124EA28D60089E6AC /* README.md */,
 				9353263B24E1564E00AF2B37 /* Vexillology */,
 				9353263A24E1564E00AF2B37 /* Products */,
 			);
