@@ -9,23 +9,54 @@ import SwiftUI
 
 struct ContentView: View {
     
-    @State var favorites: [String] = UserDefaults.standard.stringArray(forKey: "favorites") ?? []
+    var favoriteFlags: [Flag] {
+        
+        let favorites = UserDefaults.standard.stringArray(forKey: "favorites") ?? ["Qatar"]
+        let flags: [Flag] = Bundle.main.decode([Flag].self, from: "countriesjson.json")
+        let favoriteFlags: [Flag] = flags.filter({favorites.contains($0.country)})
+        
+        return favoriteFlags
+    }
+    
+    @ObservedObject var flags = Flags()
     
     var body: some View {
         NavigationView {
             VStack {
                 List {
                     Section(header: Text("Favorites")) {
-                        if favorites.count == 0 {
+                        if flags.favorites.count == 0 {
                             Label("No favorites yet", systemImage: "star")
                                 .foregroundColor(.secondary)
                         }
                         else {
-                            
+                            ForEach(flags.favorites, id: \.self) {
+                                flag in
+                                HStack {
+                                    NavigationLink(destination: Text("")) {
+                                        //                                        Image(removeSVG(img: flag.img))
+                                        //                                            .resizable()
+                                        //                                            .scaledToFill()
+                                        //                                            .frame(width: 30, height: 30, alignment: .center)
+                                        //                                            .clipShape(RoundedRectangle(cornerRadius: 5))
+                                        //                                        Text(flag.country)
+                                        Label(title: {
+                                            Text(flag.country)
+                                        }, icon: {
+                                            Image(removeSVG(img: flag.img))
+                                                .resizable()
+                                                .scaledToFill()
+                                                .frame(width: 30, height: 30, alignment: .center)
+                                                .clipShape(RoundedRectangle(cornerRadius: 5))
+                                        })
+                                    }
+                                }
+                            }
                         }
                     }
                     Section(header: Text("List")) {
-                        NavigationLink(destination: FlagsView()) {
+                        NavigationLink(destination: FlagsView()
+                                        .environmentObject(flags)) {
                             Label("List of Flags", systemImage: "flag")
                         }
                         Button(action: {
@@ -58,6 +89,16 @@ struct ContentView: View {
                 
                 .navigationBarTitle(Text("Vexillology"))
             }
+        }
+    }
+    
+    func removeSVG(img: String) -> String {
+        var components = img.components(separatedBy: ".")
+        if components.count > 1 { // If there is a file extension
+            components.removeLast()
+            return components.joined(separator: ".")
+        } else {
+            return img
         }
     }
 }

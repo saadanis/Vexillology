@@ -8,39 +8,48 @@
 import Foundation
 
 struct Flag: Codable, Hashable {
-   // var id = UUID()
+    // var id = UUID()
     let country: String
     let name: String
     let img: String
     let adopted: String
     let continent: String
-  //  var favorite: Bool = false
+    //  var favorite: Bool = false
 }
 
-class Flags {
-    let urlString = "./countriesjson.json"
-    var flags: [Flag] = []
+class Flags: ObservableObject {
+    
+    @Published var favorites: [Flag] = []
     
     init() {
         load()
     }
     
     func load() {
-        print("starting load.")
-        if let url = URL(string: urlString) {
-            if let data = try? Data(contentsOf: url) {
-                print("1")
-                parse(json: data)
-            }
-        }
-        print("ending load.")
+        
+        // Get the favorite flags.
+        let favoritesString = UserDefaults.standard.stringArray(forKey: "favorites") ?? ["Qatar"]
+        let flags: [Flag] = Bundle.main.decode([Flag].self, from: "countriesjson.json")
+        let favoriteFlags: [Flag] = flags.filter({favoritesString.contains($0.country)})
+        favorites = favoriteFlags
+        
     }
     
-    func parse(json: Data) {
-        let decoder = JSONDecoder()
-
-        if let jsonFlags = try? decoder.decode([Flag].self, from: json) {
-            flags = jsonFlags
-        }
+    func addToFavorites(flag: Flag) {
+        favorites.append(flag)
+        saveFavorites()
+        objectWillChange.send()
     }
+    
+    func removeFromFavorites(flag: Flag) {
+        favorites.removeAll(where: {$0 == flag})
+        saveFavorites()
+        objectWillChange.send()
+    }
+    
+    func saveFavorites() {
+        let favoritesString = favorites.map({$0.country})
+        UserDefaults.standard.set(favoritesString,forKey: "favorites")
+    }
+    
 }

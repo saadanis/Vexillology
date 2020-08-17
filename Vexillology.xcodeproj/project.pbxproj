@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		930B833124EA61FD0064F380 /* FlagDetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 930B833024EA61FD0064F380 /* FlagDetailsView.swift */; };
 		9353263D24E1564E00AF2B37 /* VexillologyApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9353263C24E1564E00AF2B37 /* VexillologyApp.swift */; };
 		9353263F24E1564E00AF2B37 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9353263E24E1564E00AF2B37 /* ContentView.swift */; };
 		9353264124E1565100AF2B37 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9353264024E1565100AF2B37 /* Assets.xcassets */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		930B833024EA61FD0064F380 /* FlagDetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlagDetailsView.swift; sourceTree = "<group>"; };
 		9353263924E1564E00AF2B37 /* Vexillology.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Vexillology.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9353263C24E1564E00AF2B37 /* VexillologyApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VexillologyApp.swift; sourceTree = "<group>"; };
 		9353263E24E1564E00AF2B37 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -65,6 +67,7 @@
 				9353263C24E1564E00AF2B37 /* VexillologyApp.swift */,
 				9353263E24E1564E00AF2B37 /* ContentView.swift */,
 				93BDD51924E8D69A0089E6AC /* FlagsView.swift */,
+				930B833024EA61FD0064F380 /* FlagDetailsView.swift */,
 				93BDD51D24E902220089E6AC /* Flag.swift */,
 				93BDD51F24E903170089E6AC /* Bundle-Decodable.swift */,
 				93BDD51B24E901D70089E6AC /* countriesjson.json */,
@@ -156,6 +159,7 @@
 				9353263F24E1564E00AF2B37 /* ContentView.swift in Sources */,
 				93BDD51A24E8D69A0089E6AC /* FlagsView.swift in Sources */,
 				93BDD52024E903170089E6AC /* Bundle-Decodable.swift in Sources */,
+				930B833124EA61FD0064F380 /* FlagDetailsView.swift in Sources */,
 				9353263D24E1564E00AF2B37 /* VexillologyApp.swift in Sources */,
 				93BDD51E24E902220089E6AC /* Flag.swift in Sources */,
 			);
