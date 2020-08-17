@@ -1,0 +1,2034 @@
+[
+  {
+    "country": "Afghanistan",
+    "name": "",
+    "img": "af.svg",
+    "adopted": "2002",
+    "continent": "Asia",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Åland Islands",
+    "name": "",
+    "img": "ax.svg",
+    "adopted": "",
+    "continent": "",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Albania",
+    "name": "",
+    "img": "al.svg",
+    "adopted": "1912",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Algeria",
+    "name": "",
+    "img": "dz.svg",
+    "adopted": "1962",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "American Samoa",
+    "name": "",
+    "img": "as.svg",
+    "adopted": "",
+    "continent": "Oceania",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Andorra",
+    "name": "",
+    "img": "ad.svg",
+    "adopted": "1971",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Angola",
+    "name": "",
+    "img": "ao.svg",
+    "adopted": "1975",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Anguilla",
+    "name": "",
+    "img": "ai.svg",
+    "adopted": "",
+    "continent": "North America",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Antarctica",
+    "name": "",
+    "img": "aq.svg",
+    "adopted": "",
+    "continent": "Antarctica",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "name": "",
+    "img": "ag.svg",
+    "adopted": "",
+    "continent": "North America",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Argentina",
+    "name": "",
+    "img": "ar.svg",
+    "adopted": "1818",
+    "continent": "South America",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Armenia",
+    "name": "",
+    "img": "am.svg",
+    "adopted": "",
+    "continent": "Asia",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Aruba",
+    "name": "",
+    "img": "aw.svg",
+    "adopted": "",
+    "continent": "North America",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Australia",
+    "name": "",
+    "img": "au.svg",
+    "adopted": "",
+    "continent": "Oceania",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Austria",
+    "name": "",
+    "img": "at.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Azerbaijan",
+    "name": "",
+    "img": "az.svg",
+    "adopted": "",
+    "continent": "Asia",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Bahamas",
+    "name": "",
+    "img": "bs.svg",
+    "adopted": "",
+    "continent": "North America",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Bahrain",
+    "name": "",
+    "img": "bh.svg",
+    "adopted": "",
+    "continent": "Asia",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Bangladesh",
+    "name": "",
+    "img": "bd.svg",
+    "adopted": "",
+    "continent": "Asia",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Barbados",
+    "name": "",
+    "img": "bb.svg",
+    "adopted": "",
+    "continent": "North America",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Belarus",
+    "name": "",
+    "img": "by.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Belgium",
+    "name": "",
+    "img": "be.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Belize",
+    "name": "",
+    "img": "bz.svg",
+    "adopted": "",
+    "continent": "North America",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Benin",
+    "name": "",
+    "img": "bj.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Bermuda",
+    "name": "",
+    "img": "bm.svg",
+    "adopted": "",
+    "continent": "North America",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Bhutan",
+    "name": "",
+    "img": "bt.svg",
+    "adopted": "",
+    "continent": "Asia",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Bolivia",
+    "name": "",
+    "img": "bo.svg",
+    "adopted": "",
+    "continent": "South America",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Bonaire",
+    "name": "",
+    "img": "bq.svg",
+    "adopted": "",
+    "continent": "South America",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "name": "",
+    "img": "ba.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Botswana",
+    "name": "",
+    "img": "bw.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Bouvet Island",
+    "name": "",
+    "img": "bv.svg",
+    "adopted": "",
+    "continent": "Antarctica",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Brazil",
+    "name": "",
+    "img": "br.svg",
+    "adopted": "",
+    "continent": "South America",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "British Indian Ocean Territory",
+    "name": "",
+    "img": "io.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Brunei",
+    "name": "",
+    "img": "bn.svg",
+    "adopted": "",
+    "continent": "Asia",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Bulgaria",
+    "name": "",
+    "img": "bg.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Burkina Faso",
+    "name": "",
+    "img": "bf.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Burundi",
+    "name": "",
+    "img": "bi.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Cambodia",
+    "name": "",
+    "img": "kh.svg",
+    "adopted": "",
+    "continent": "Asia",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Cameroon",
+    "name": "",
+    "img": "cm.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Canada",
+    "name": "",
+    "img": "ca.svg",
+    "adopted": "",
+    "continent": "North America",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Cape Verde",
+    "name": "",
+    "img": "cv.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Cayman Islands",
+    "name": "",
+    "img": "ky.svg",
+    "adopted": "",
+    "continent": "North America",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Central African Republic",
+    "name": "",
+    "img": "cf.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Chad",
+    "name": "",
+    "img": "td.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Chile",
+    "name": "",
+    "img": "cl.svg",
+    "adopted": "",
+    "continent": "South America",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "China",
+    "name": "",
+    "img": "cn.svg",
+    "adopted": "",
+    "continent": "Asia",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Christmas Island",
+    "name": "",
+    "img": "cx.svg",
+    "adopted": "",
+    "continent": "Oceania",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Cocos (Keeling) Islands",
+    "name": "",
+    "img": "cc.svg",
+    "adopted": "",
+    "continent": "Oceania",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Colombia",
+    "name": "",
+    "img": "co.svg",
+    "adopted": "",
+    "continent": "South America",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Comoros",
+    "name": "",
+    "img": "km.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Democratic Republic of Congo",
+    "name": "",
+    "img": "cd.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Congo",
+    "name": "",
+    "img": "cg.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Cook Islands",
+    "name": "",
+    "img": "ck.svg",
+    "adopted": "",
+    "continent": "Oceania",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Costa Rica",
+    "name": "",
+    "img": "cr.svg",
+    "adopted": "",
+    "continent": "North America",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Côte d'Ivoire",
+    "name": "",
+    "img": "ci.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Croatia",
+    "name": "",
+    "img": "hr.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Cuba",
+    "name": "",
+    "img": "cu.svg",
+    "adopted": "",
+    "continent": "North America",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Curaçao",
+    "name": "",
+    "img": "cw.svg",
+    "adopted": "",
+    "continent": "North America",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Cyprus",
+    "name": "",
+    "img": "cy.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Czechia",
+    "name": "",
+    "img": "cz.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Denmark",
+    "name": "",
+    "img": "dk.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Djibouti",
+    "name": "",
+    "img": "dj.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Dominica",
+    "name": "",
+    "img": "dm.svg",
+    "adopted": "",
+    "continent": "North America",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Dominican Republic",
+    "name": "",
+    "img": "do.svg",
+    "adopted": "",
+    "continent": "North America",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "East Timor",
+    "name": "",
+    "img": "tl.svg",
+    "adopted": "",
+    "continent": "Asia",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Ecuador",
+    "name": "",
+    "img": "ec.svg",
+    "adopted": "",
+    "continent": "South America",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Egypt",
+    "name": "",
+    "img": "eg.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "El Salvador",
+    "name": "",
+    "img": "sv.svg",
+    "adopted": "",
+    "continent": "North America",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "England",
+    "name": "",
+    "img": "gb-eng.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Equatorial Guinea",
+    "name": "",
+    "img": "gq.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Eritrea",
+    "name": "",
+    "img": "er.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Estonia",
+    "name": "",
+    "img": "ee.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Eswatini",
+    "name": "",
+    "img": "sz.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Ethiopia",
+    "name": "",
+    "img": "et.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Falkland Islands",
+    "name": "",
+    "img": "fk.svg",
+    "adopted": "",
+    "continent": "South America",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Faroe Islands",
+    "name": "",
+    "img": "fo.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Fiji",
+    "name": "",
+    "img": "fj.svg",
+    "adopted": "",
+    "continent": "Oceania",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Finland",
+    "name": "",
+    "img": "fi.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "France",
+    "name": "",
+    "img": "fr.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "French Guiana",
+    "name": "",
+    "img": "gf.svg",
+    "adopted": "",
+    "continent": "South America",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "French Polynesia",
+    "name": "",
+    "img": "pf.svg",
+    "adopted": "",
+    "continent": "Oceania",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "French Southern Territories",
+    "name": "",
+    "img": "tf.svg",
+    "adopted": "",
+    "continent": "Antarctica",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Gabon",
+    "name": "",
+    "img": "ga.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Gambia",
+    "name": "",
+    "img": "gm.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Georgia",
+    "name": "",
+    "img": "ge.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Germany",
+    "name": "",
+    "img": "de.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Ghana",
+    "name": "",
+    "img": "gh.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Gibraltar",
+    "name": "",
+    "img": "gi.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Greece",
+    "name": "",
+    "img": "gr.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Greenland",
+    "name": "",
+    "img": "gl.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Grenada",
+    "name": "",
+    "img": "gd.svg",
+    "adopted": "",
+    "continent": "North America",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Guadeloupe",
+    "name": "",
+    "img": "gp.svg",
+    "adopted": "",
+    "continent": "North America",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Guam",
+    "name": "",
+    "img": "gu.svg",
+    "adopted": "",
+    "continent": "Oceania",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Guatemala",
+    "name": "",
+    "img": "gt.svg",
+    "adopted": "",
+    "continent": "North America",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Guernsey",
+    "name": "",
+    "img": "gg.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Guinea",
+    "name": "",
+    "img": "gn.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Guinea-Bissau",
+    "name": "",
+    "img": "gw.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Guyana",
+    "name": "",
+    "img": "gy.svg",
+    "adopted": "",
+    "continent": "South America",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Haiti",
+    "name": "",
+    "img": "ht.svg",
+    "adopted": "",
+    "continent": "North America",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Heard Island and McDonald Islands",
+    "name": "",
+    "img": "hm.svg",
+    "adopted": "",
+    "continent": "Antarctica",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Vatican",
+    "name": "",
+    "img": "va.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Honduras",
+    "name": "",
+    "img": "hn.svg",
+    "adopted": "",
+    "continent": "North America",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Hong Kong",
+    "name": "",
+    "img": "hk.svg",
+    "adopted": "",
+    "continent": "Asia",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Hungary",
+    "name": "",
+    "img": "hu.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Iceland",
+    "name": "",
+    "img": "is.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "India",
+    "name": "",
+    "img": "in.svg",
+    "adopted": "",
+    "continent": "Asia",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Indonesia",
+    "name": "",
+    "img": "id.svg",
+    "adopted": "",
+    "continent": "Asia",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Iran",
+    "name": "",
+    "img": "ir.svg",
+    "adopted": "",
+    "continent": "Asia",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Iraq",
+    "name": "",
+    "img": "iq.svg",
+    "adopted": "",
+    "continent": "Asia",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Ireland",
+    "name": "",
+    "img": "ie.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Isle of Man",
+    "name": "",
+    "img": "im.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Israel",
+    "name": "",
+    "img": "il.svg",
+    "adopted": "",
+    "continent": "Asia",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Italy",
+    "name": "",
+    "img": "it.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Jamaica",
+    "name": "",
+    "img": "jm.svg",
+    "adopted": "",
+    "continent": "North America",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Japan",
+    "name": "",
+    "img": "jp.svg",
+    "adopted": "",
+    "continent": "Asia",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Jersey",
+    "name": "",
+    "img": "je.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Jordan",
+    "name": "",
+    "img": "jo.svg",
+    "adopted": "",
+    "continent": "Asia",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Kazakhstan",
+    "name": "",
+    "img": "kz.svg",
+    "adopted": "",
+    "continent": "Asia",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Kenya",
+    "name": "",
+    "img": "ke.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Kiribati",
+    "name": "",
+    "img": "ki.svg",
+    "adopted": "",
+    "continent": "Oceania",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Kosovo",
+    "name": "",
+    "img": "xk.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Kuwait",
+    "name": "",
+    "img": "kw.svg",
+    "adopted": "",
+    "continent": "Asia",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Kyrgyzstan",
+    "name": "",
+    "img": "kg.svg",
+    "adopted": "",
+    "continent": "Asia",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Laos",
+    "name": "",
+    "img": "la.svg",
+    "adopted": "",
+    "continent": "Asia",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Latvia",
+    "name": "",
+    "img": "lv.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Lebanon",
+    "name": "",
+    "img": "lb.svg",
+    "adopted": "",
+    "continent": "Asia",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Lesotho",
+    "name": "",
+    "img": "ls.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Liberia",
+    "name": "",
+    "img": "lr.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Libya",
+    "name": "",
+    "img": "ly.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Liechtenstein",
+    "name": "",
+    "img": "li.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Lithuania",
+    "name": "",
+    "img": "lt.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Luxembourg",
+    "name": "",
+    "img": "lu.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Macao",
+    "name": "",
+    "img": "mo.svg",
+    "adopted": "",
+    "continent": "Asia",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Madagascar",
+    "name": "",
+    "img": "mg.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Malawi",
+    "name": "",
+    "img": "mw.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Malaysia",
+    "name": "",
+    "img": "my.svg",
+    "adopted": "",
+    "continent": "Asia",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Maldives",
+    "name": "",
+    "img": "mv.svg",
+    "adopted": "",
+    "continent": "Asia",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Mali",
+    "name": "",
+    "img": "ml.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Malta",
+    "name": "",
+    "img": "mt.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Marshall Islands",
+    "name": "",
+    "img": "mh.svg",
+    "adopted": "",
+    "continent": "Oceania",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Martinique",
+    "name": "",
+    "img": "mq.svg",
+    "adopted": "",
+    "continent": "North America",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Mauritania",
+    "name": "",
+    "img": "mr.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Mauritius",
+    "name": "",
+    "img": "mu.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Mayotte",
+    "name": "",
+    "img": "yt.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Mexico",
+    "name": "",
+    "img": "mx.svg",
+    "adopted": "",
+    "continent": "North America",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Micronesia",
+    "name": "",
+    "img": "fm.svg",
+    "adopted": "",
+    "continent": "Oceania",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Moldova",
+    "name": "",
+    "img": "md.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Monaco",
+    "name": "",
+    "img": "mc.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Mongolia",
+    "name": "",
+    "img": "mn.svg",
+    "adopted": "",
+    "continent": "Asia",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Montenegro",
+    "name": "",
+    "img": "me.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Montserrat",
+    "name": "",
+    "img": "ms.svg",
+    "adopted": "",
+    "continent": "North America",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Morocco",
+    "name": "",
+    "img": "ma.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Mozambique",
+    "name": "",
+    "img": "mz.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Myanmar",
+    "name": "",
+    "img": "mm.svg",
+    "adopted": "",
+    "continent": "Asia",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Namibia",
+    "name": "",
+    "img": "na.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Nauru",
+    "name": "",
+    "img": "nr.svg",
+    "adopted": "",
+    "continent": "Oceania",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Nepal",
+    "name": "",
+    "img": "np.svg",
+    "adopted": "",
+    "continent": "Asia",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Netherlands",
+    "name": "",
+    "img": "nl.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "New Caledonia",
+    "name": "",
+    "img": "nc.svg",
+    "adopted": "",
+    "continent": "Oceania",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "New Zealand",
+    "name": "",
+    "img": "nz.svg",
+    "adopted": "",
+    "continent": "Oceania",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Nicaragua",
+    "name": "",
+    "img": "ni.svg",
+    "adopted": "",
+    "continent": "North America",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Niger",
+    "name": "",
+    "img": "ne.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Nigeria",
+    "name": "",
+    "img": "ng.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Niue",
+    "name": "",
+    "img": "nu.svg",
+    "adopted": "",
+    "continent": "Oceania",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Norfolk Island",
+    "name": "",
+    "img": "nf.svg",
+    "adopted": "",
+    "continent": "Oceania",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "North Korea",
+    "name": "",
+    "img": "kp.svg",
+    "adopted": "",
+    "continent": "Asia",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "North Macedonia",
+    "name": "",
+    "img": "mk.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Northern Ireland",
+    "name": "",
+    "img": "gb-nir.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Northern Mariana Islands",
+    "name": "",
+    "img": "mp.svg",
+    "adopted": "",
+    "continent": "Oceania",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Norway",
+    "name": "",
+    "img": "no.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Oman",
+    "name": "",
+    "img": "om.svg",
+    "adopted": "",
+    "continent": "Asia",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Pakistan",
+    "name": "",
+    "img": "pk.svg",
+    "adopted": "",
+    "continent": "Asia",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Palau",
+    "name": "",
+    "img": "pw.svg",
+    "adopted": "",
+    "continent": "Oceania",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Palestine",
+    "name": "",
+    "img": "ps.svg",
+    "adopted": "",
+    "continent": "Asia",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Panama",
+    "name": "",
+    "img": "pa.svg",
+    "adopted": "",
+    "continent": "North America",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Papua New Guinea",
+    "name": "",
+    "img": "pg.svg",
+    "adopted": "",
+    "continent": "Oceania",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Paraguay",
+    "name": "",
+    "img": "py.svg",
+    "adopted": "",
+    "continent": "South America",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Peru",
+    "name": "",
+    "img": "pe.svg",
+    "adopted": "",
+    "continent": "South America",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Philippines",
+    "name": "",
+    "img": "ph.svg",
+    "adopted": "",
+    "continent": "Asia",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Pitcairn",
+    "name": "",
+    "img": "pn.svg",
+    "adopted": "",
+    "continent": "Oceania",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Poland",
+    "name": "",
+    "img": "pl.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Portugal",
+    "name": "",
+    "img": "pt.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Puerto Rico",
+    "name": "",
+    "img": "pr.svg",
+    "adopted": "",
+    "continent": "North America",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Qatar",
+    "name": "",
+    "img": "qa.svg",
+    "adopted": "",
+    "continent": "Asia",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Réunion",
+    "name": "",
+    "img": "re.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Romania",
+    "name": "",
+    "img": "ro.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Russia",
+    "name": "",
+    "img": "ru.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Rwanda",
+    "name": "",
+    "img": "rw.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Saint Barthélemy",
+    "name": "",
+    "img": "bl.svg",
+    "adopted": "",
+    "continent": "North America",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "\"Saint Helena",
+    "name": " Ascension and Tristan da Cunha\"",
+    "img": "",
+    "adopted": "sh.svg",
+    "continent": "",
+    "proportion\r": "Africa"
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "name": "",
+    "img": "kn.svg",
+    "adopted": "",
+    "continent": "North America",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Saint Lucia",
+    "name": "",
+    "img": "lc.svg",
+    "adopted": "",
+    "continent": "North America",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Saint Martin",
+    "name": "",
+    "img": "mf.svg",
+    "adopted": "",
+    "continent": "North America",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Saint Pierre and Miquelon",
+    "name": "",
+    "img": "pm.svg",
+    "adopted": "",
+    "continent": "North America",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "name": "",
+    "img": "vc.svg",
+    "adopted": "",
+    "continent": "North America",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Samoa",
+    "name": "",
+    "img": "ws.svg",
+    "adopted": "",
+    "continent": "Oceania",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "San Marino",
+    "name": "",
+    "img": "sm.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "name": "",
+    "img": "st.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Saudi Arabia",
+    "name": "",
+    "img": "sa.svg",
+    "adopted": "",
+    "continent": "Asia",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Scotland",
+    "name": "",
+    "img": "gb-sct.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Senegal",
+    "name": "",
+    "img": "sn.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Serbia",
+    "name": "",
+    "img": "rs.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Seychelles",
+    "name": "",
+    "img": "sc.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Sierra Leone",
+    "name": "",
+    "img": "sl.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Singapore",
+    "name": "",
+    "img": "sg.svg",
+    "adopted": "",
+    "continent": "Asia",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Sint Maarten",
+    "name": "",
+    "img": "sx.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Slovakia",
+    "name": "",
+    "img": "sk.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Slovenia",
+    "name": "",
+    "img": "si.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Solomon Islands",
+    "name": "",
+    "img": "sb.svg",
+    "adopted": "",
+    "continent": "Oceania",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Somalia",
+    "name": "",
+    "img": "so.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "South Africa",
+    "name": "",
+    "img": "za.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "South Georgia and the South Sandwich Islands",
+    "name": "",
+    "img": "gs.svg",
+    "adopted": "",
+    "continent": "Antarctica",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "South Korea",
+    "name": "",
+    "img": "kr.svg",
+    "adopted": "",
+    "continent": "Asia",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "South Sudan",
+    "name": "",
+    "img": "ss.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Spain",
+    "name": "",
+    "img": "es.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Sri Lanka",
+    "name": "",
+    "img": "lk.svg",
+    "adopted": "",
+    "continent": "Asia",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Sudan",
+    "name": "",
+    "img": "sd.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Suriname",
+    "name": "",
+    "img": "sr.svg",
+    "adopted": "",
+    "continent": "South America",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Svalbard and Jan Mayen",
+    "name": "",
+    "img": "sj.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Sweden",
+    "name": "",
+    "img": "se.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Switzerland",
+    "name": "",
+    "img": "ch.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Syrian Arab Republic",
+    "name": "",
+    "img": "sy.svg",
+    "adopted": "",
+    "continent": "Asia",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Taiwan",
+    "name": "",
+    "img": "tw.svg",
+    "adopted": "",
+    "continent": "Asia",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Tajikistan",
+    "name": "",
+    "img": "tj.svg",
+    "adopted": "",
+    "continent": "Asia",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Tanzania",
+    "name": "",
+    "img": "tz.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Thailand",
+    "name": "",
+    "img": "th.svg",
+    "adopted": "",
+    "continent": "Asia",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Togo",
+    "name": "",
+    "img": "tg.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Tokelau",
+    "name": "",
+    "img": "tk.svg",
+    "adopted": "",
+    "continent": "Oceania",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Tonga",
+    "name": "",
+    "img": "to.svg",
+    "adopted": "",
+    "continent": "Oceania",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "name": "",
+    "img": "tt.svg",
+    "adopted": "",
+    "continent": "North America",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Tunisia",
+    "name": "",
+    "img": "tn.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Turkey",
+    "name": "",
+    "img": "tr.svg",
+    "adopted": "",
+    "continent": "Asia",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Turkmenistan",
+    "name": "",
+    "img": "tm.svg",
+    "adopted": "",
+    "continent": "Asia",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Turks and Caicos Islands",
+    "name": "",
+    "img": "tc.svg",
+    "adopted": "",
+    "continent": "North America",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Tuvalu",
+    "name": "",
+    "img": "tv.svg",
+    "adopted": "",
+    "continent": "Oceania",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Uganda",
+    "name": "",
+    "img": "ug.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Ukraine",
+    "name": "",
+    "img": "ua.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "United Arab Emirates",
+    "name": "",
+    "img": "ae.svg",
+    "adopted": "1971",
+    "continent": "Asia",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "United Kingdom",
+    "name": "",
+    "img": "gb.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "United States Minor Outlying Islands",
+    "name": "",
+    "img": "um.svg",
+    "adopted": "",
+    "continent": "Oceania",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "United States of America",
+    "name": "",
+    "img": "us.svg",
+    "adopted": "",
+    "continent": "North America",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Uruguay",
+    "name": "",
+    "img": "uy.svg",
+    "adopted": "",
+    "continent": "South America",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Uzbekistan",
+    "name": "",
+    "img": "uz.svg",
+    "adopted": "",
+    "continent": "Asia",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Vanuatu",
+    "name": "",
+    "img": "vu.svg",
+    "adopted": "",
+    "continent": "Oceania",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Venezuela",
+    "name": "",
+    "img": "ve.svg",
+    "adopted": "",
+    "continent": "South America",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Vietnam",
+    "name": "",
+    "img": "vn.svg",
+    "adopted": "",
+    "continent": "Asia",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Virgin Islands (British)",
+    "name": "",
+    "img": "vg.svg",
+    "adopted": "",
+    "continent": "North America",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Virgin Islands (U.S.)",
+    "name": "",
+    "img": "vi.svg",
+    "adopted": "",
+    "continent": "North America",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Wales",
+    "name": "",
+    "img": "gb-wls.svg",
+    "adopted": "",
+    "continent": "Europe",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Wallis and Futuna",
+    "name": "",
+    "img": "wf.svg",
+    "adopted": "",
+    "continent": "Oceania",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Western Sahara",
+    "name": "",
+    "img": "eh.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Yemen",
+    "name": "",
+    "img": "ye.svg",
+    "adopted": "",
+    "continent": "Asia",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Zambia",
+    "name": "",
+    "img": "zm.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": "\r"
+  },
+  {
+    "country": "Zimbabwe",
+    "name": "",
+    "img": "zw.svg",
+    "adopted": "",
+    "continent": "Africa",
+    "proportion\r": ""
+  }
+]
