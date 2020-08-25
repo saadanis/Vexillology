@@ -9,6 +9,8 @@ I may or may not add the ability to create your own flags and generate wallpaper
 
 ## Features Complete
 1. View a list of all the national flags.
+2. Choose favorite flags.
+3. Create custom lists.
 
 ## Screenshots
 Coming soon.
