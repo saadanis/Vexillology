@@ -13,6 +13,10 @@ struct FlagDetailsView: View {
     
     @EnvironmentObject var flags: Flags
     
+    @State private var showingSheet = false
+    
+    @State var newName: String = ""
+    
     var body: some View {
         ScrollView(showsIndicators: false) {
             VStack(alignment: .leading) {
@@ -34,12 +38,33 @@ struct FlagDetailsView: View {
                 
             }
             .padding(.horizontal)
+            .sheet(isPresented: $showingSheet, content: {
+                NavigationView {
+                    Form {
+                        TextField("Name", text: $newName)
+                    }
+                    .navigationBarTitle(Text("Create New List"))
+                    .navigationBarItems(leading: Button("Cancel") {
+                        showingSheet = false
+                    }, trailing: Button("Create") {
+                        flags.createCustomList(newName: newName, thisFlag: flag)
+                    })
+                }
+            })
         }
         .navigationBarTitle(Text(flag.country))
         .navigationBarItems(trailing: HStack {
-            Button(action: {}){
-                Image(systemName: "plus")
-            }
+            Menu {
+                Button(action: {
+                    showingSheet = true
+                }) {
+                    Label("Create new list", systemImage: "plus")
+                }
+                ForEach(1..<5){ num in
+                    Button("Butotn \(num)", action: {})
+                }
+                Button("Cancel", action: {})
+            } label: {Label("Add to List", systemImage: "plus")}
             Button(action: {
                 if isFavorite() {
                     flags.removeFromFavorites(flag: flag)

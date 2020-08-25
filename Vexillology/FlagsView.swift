@@ -9,25 +9,25 @@ import SwiftUI
 
 struct FlagsView: View {
     
-    let flags: [Flag] = Bundle.main.decode([Flag].self, from: "countriesjson.json")
+//    let flags: [Flag] = Bundle.main.decode([Flag].self, from: "countriesjson.json")
     
-    var favoriteFlags: [Flag] {
-        
-        let favorites = UserDefaults.standard.stringArray(forKey: "favorites") ?? ["Afghanistan","Qatar"]
-        let flags: [Flag] = Bundle.main.decode([Flag].self, from: "countriesjson.json")
-        let favoriteFlags: [Flag] = flags.filter({favorites.contains($0.country)})
-        
-        return favoriteFlags
-    }
+//    var favoriteFlags: [Flag] {
+//
+//        let favorites = UserDefaults.standard.stringArray(forKey: "favorites") ?? ["Afghanistan","Qatar"]
+//        let flags: [Flag] = Bundle.main.decode([Flag].self, from: "countriesjson.json")
+//        let favoriteFlags: [Flag] = flags.filter({favorites.contains($0.country)})
+//
+//        return favoriteFlags
+//    }
     
-    @EnvironmentObject var flagsFavorite: Flags
+    @EnvironmentObject var flags: Flags
     
     var body: some View {
         VStack {
             List {
-                ForEach(flags, id: \.self) { flag in
+                ForEach(flags.flags, id: \.self) { flag in
                     HStack {
-                        NavigationLink(destination: FlagDetailsView(flag: flag).environmentObject(flagsFavorite)) {
+                        NavigationLink(destination: FlagDetailsView(flag: flag).environmentObject(flags)) {
                             //                                Image(removeSVG(img: flag.img))
                             //                                    .resizable()
                             //                                    .scaledToFill()
@@ -35,7 +35,7 @@ struct FlagsView: View {
                             //                                    .clipShape(RoundedRectangle(cornerRadius: 5))
                             //                            RoundedRectangle(cornerRadius: 25)
                             //                                .background(Image(removeSVG(img: flag.img)))
-                            //                                Text(flag.country)
+                            // Text(flag.country)
                             Label(
                                 title: { Text(flag.country) },
                                 icon: { Image(removeSVG(img: flag.img))
@@ -61,6 +61,7 @@ struct FlagsView: View {
                     }
                 }
             }
+            .id(UUID())
         }
         .navigationBarTitle(Text("List of Flags"))
         .navigationBarItems(trailing: Button(action: {
@@ -71,10 +72,10 @@ struct FlagsView: View {
         
     }
     
-    func isCountryFavorite(flag: Flag) -> Bool {
-        if favoriteFlags.contains(flag) { return true }
-        return false
-    }
+//    func isCountryFavorite(flag: Flag) -> Bool {
+//        if favoriteFlags.contains(flag) { return true }
+//        return false
+//    }
     
     func scaleFactor(geometry: GeometryProxy, imageGeometry: GeometryProxy) -> CGFloat {
         let imagePosition = imageGeometry.frame(in: .global).minY

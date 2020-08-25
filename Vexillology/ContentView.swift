@@ -33,7 +33,8 @@ struct ContentView: View {
                             ForEach(flags.favorites, id: \.self) {
                                 flag in
                                 HStack {
-                                    NavigationLink(destination: Text("")) {
+                                    NavigationLink(destination: FlagDetailsView(flag: flag)
+                                                    .environmentObject(flags)) {
                                         //                                        Image(removeSVG(img: flag.img))
                                         //                                            .resizable()
                                         //                                            .scaledToFill()
@@ -58,6 +59,11 @@ struct ContentView: View {
                         NavigationLink(destination: FlagsView()
                                         .environmentObject(flags)) {
                             Label("List of Flags", systemImage: "flag")
+                        }
+                        ForEach(flags.customLists, id: \.self) { customList in
+                            NavigationLink(destination: Text(customList.name)) {
+                                Label(customList.name, systemImage: "flag")
+                            }
                         }
                         Button(action: {
                             
@@ -85,6 +91,9 @@ struct ContentView: View {
                             Label("About", systemImage: "info.circle")
                         }
                     }
+                }
+                .onAppear() {
+                    flags.load()
                 }
                 
                 .navigationBarTitle(Text("Vexillology"))

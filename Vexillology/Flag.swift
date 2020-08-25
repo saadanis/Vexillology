@@ -17,19 +17,30 @@ struct Flag: Codable, Hashable {
     //  var favorite: Bool = false
 }
 
+struct CustomList: Codable, Hashable {
+    var name: String
+    var flags : [Flag]
+}
+
 class Flags: ObservableObject {
     
     @Published var favorites: [Flag] = []
+    let flags: [Flag] = Bundle.main.decode([Flag].self, from: "countriesjson.json")
+    var customLists: [CustomList] = []
     
     init() {
         load()
+    }
+    
+    func reload() {
+        
     }
     
     func load() {
         
         // Get the favorite flags.
         let favoritesString = UserDefaults.standard.stringArray(forKey: "favorites") ?? ["Qatar"]
-        let flags: [Flag] = Bundle.main.decode([Flag].self, from: "countriesjson.json")
+        //let flags: [Flag] = Bundle.main.decode([Flag].self, from: "countriesjson.json")
         let favoriteFlags: [Flag] = flags.filter({favoritesString.contains($0.country)})
         favorites = favoriteFlags
         
@@ -38,18 +49,28 @@ class Flags: ObservableObject {
     func addToFavorites(flag: Flag) {
         favorites.append(flag)
         saveFavorites()
-        objectWillChange.send()
+        //objectWillChange.send()
     }
     
     func removeFromFavorites(flag: Flag) {
         favorites.removeAll(where: {$0 == flag})
         saveFavorites()
-        objectWillChange.send()
+        //objectWillChange.send()
     }
     
     func saveFavorites() {
         let favoritesString = favorites.map({$0.country})
         UserDefaults.standard.set(favoritesString,forKey: "favorites")
+    }
+    
+    func createCustomList(newName: String, thisFlag: Flag?) {
+        if (thisFlag != nil) {
+            let newList = CustomList(name: newName, flags: [thisFlag!])
+            customLists.append(newList)
+        } else {
+            let newList = CustomList(name: newName, flags: [])
+            customLists.append(newList)
+        }
     }
     
 }
